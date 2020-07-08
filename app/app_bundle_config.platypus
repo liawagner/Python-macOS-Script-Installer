@@ -9,10 +9,10 @@
 	<key>Authentication</key>
 	<false/>
 	<key>Author</key>
-	<string>chriswayg</string>
+	<string>author-name</string>
 	<key>BundledFiles</key>
 	<array>
-		<string>CC-Offline-Package-Generator</string>
+		<string>downloader-demo</string>
 		<string>build_env.txt</string>
 	</array>
 	<key>Creator</key>
@@ -20,7 +20,7 @@
 	<key>DeclareService</key>
 	<false/>
 	<key>Destination</key>
-	<string>/Users/Shared/CC_Offline_Package_Generator.app</string>
+	<string>/Users/Shared/Downloader_Demo.app</string>
 	<key>DevelopmentVersion</key>
 	<false/>
 	<key>DocIconPath</key>
@@ -32,7 +32,7 @@
 	<key>IconPath</key>
 	<string>icon.icns</string>
 	<key>Identifier</key>
-	<string>org.chriswayg.CCOfflinePackageGenerator</string>
+	<string>org.author-name.downloader-demo</string>
 	<key>InterfaceType</key>
 	<string>None</string>
 	<key>InterpreterArgs</key>
@@ -40,7 +40,7 @@
 	<key>InterpreterPath</key>
 	<string>/usr/bin/osascript</string>
 	<key>Name</key>
-	<string>CC_Offline_Package_Generator</string>
+	<string>Downloader_Demo</string>
 	<key>NibPath</key>
 	<string>/usr/local/share/platypus/MainMenu.nib</string>
 	<key>OptimizeApplication</key>
@@ -254,6 +254,6 @@
 		<string>public.folder</string>
 	</array>
 	<key>Version</key>
-	<string>0.1.2.2</string>
+	<string>0.1.0</string>
 </dict>
 </plist>

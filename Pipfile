@@ -7,8 +7,11 @@ verify_ssl = true
 
 [packages]
 pyinstaller = "*"
-requests = "*"
 tqdm = "*"
+requests = "*"
+validators = "*"
+j2cli = "*"
+appdirs = "*"
 
 [requires]
 python_version = "3.7"

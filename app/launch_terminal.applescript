@@ -1,5 +1,5 @@
 #!/usr/bin/osascript
-set run_cmd to (POSIX path of ((path to me as text) & "::") & "CC-Offline-Package-Generator") as text
+set run_cmd to (POSIX path of ((path to me as text) & "::") & "downloader-demo") as text
 
 # TODO improve the way Terminal is launched with a more reliable way of actiivating a resizing the intended window
 if application "Terminal" is running then

@@ -3,8 +3,8 @@ import pkg_resources.py2_warn
 
 block_cipher = None
 
-a = Analysis(['src/ccdl.py'],
-             pathex=['CC-Offline-Package-Generator'],
+a = Analysis(['src/main_script.py'],
+             pathex=['downloader-demo'],
              binaries=[],
              datas=[],
              hiddenimports=['pkg_resources.py2_warn'],
@@ -24,7 +24,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,
           [],
-          name='CC-Offline-Package-Generator',
+          name='downloader-demo',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
