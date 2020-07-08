@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9185a03b-3916-4ce6-b922-d7803fc19d42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python-macOS-Script-Installer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CC-Offline-Package-Generator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app_bundle_config.platypus" beforeDir="false" afterPath="$PROJECT_DIR$/app/app_bundle_config.platypus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/icon.icns" beforeDir="false" afterPath="$PROJECT_DIR$/app/icon.icns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/launch_terminal.applescript" beforeDir="false" afterPath="$PROJECT_DIR$/app/launch_terminal.applescript" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_app.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build_app.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_prerequisites.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build_prereqs.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyinstall.spec" beforeDir="false" afterPath="$PROJECT_DIR$/pyinstall.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ccdl.command" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ccdl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/install.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eOP5qhF1f5KL4BAzUO7LUIJqxr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-macOS-Script-Installer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_script" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9185a03b-3916-4ce6-b922-d7803fc19d42" name="Default Changelist" comment="" />
+      <created>1594189485953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594189485953</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.spec" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594215815381">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state x="2340" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594190852995" />
+    <state x="446" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594215815381" />
+    <state x="702" y="361" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594201226692">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state x="702" y="361" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594201226692" />
+    <state width="1077" height="352" key="GridCell.Tab.0.bottom" timestamp="1594231990498">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state width="932" height="352" key="GridCell.Tab.0.bottom/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341921" />
+    <state width="1077" height="352" key="GridCell.Tab.0.bottom/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231990498" />
+    <state width="1077" height="352" key="GridCell.Tab.0.center" timestamp="1594231990497">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state width="932" height="352" key="GridCell.Tab.0.center/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341919" />
+    <state width="1077" height="352" key="GridCell.Tab.0.center/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231990497" />
+    <state width="1077" height="352" key="GridCell.Tab.0.left" timestamp="1594231990496">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state width="932" height="352" key="GridCell.Tab.0.left/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341919" />
+    <state width="1077" height="352" key="GridCell.Tab.0.left/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231990496" />
+    <state width="1077" height="352" key="GridCell.Tab.0.right" timestamp="1594231990498">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state width="932" height="352" key="GridCell.Tab.0.right/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341920" />
+    <state width="1077" height="352" key="GridCell.Tab.0.right/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231990498" />
+    <state x="2384" y="190" key="SettingsEditor" timestamp="1594191056878">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2384" y="190" key="SettingsEditor/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594191056878" />
+    <state x="2506" y="85" width="1048" height="922" key="find.popup" timestamp="1594202874172">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2023" y="60" width="870" height="759" key="find.popup/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594190541181" />
+    <state x="2506" y="85" width="1048" height="922" key="find.popup/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594202874172" />
+    <state x="653" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1594231872464">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state x="653" y="258" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231872464" />
+  </component>
+</project>
