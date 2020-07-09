@@ -13,7 +13,7 @@ This is primarily intended for macOS Python terminal applications which require 
 
 ### Usage
 
-1. Try the [Downloader_Demo.dmg](https://github.com/chriswayg/Python-macOS-Script-Installer/releases/), mount it and copy `Downloader_Demo` to Applications. Run the app and it will open a Terminal window. Then follow the on-screen instructions. Tested on High Sierra, Mojave and Catalina.
+1. Try the [Downloader_Demo.dmg](https://github.com/liawagner/Python-macOS-Script-Installer/releases), mount it and copy `Downloader_Demo` to Applications. Run the app and it will open a Terminal window. Then follow the on-screen instructions. Tested on High Sierra, Mojave and Catalina.
 
 2. Use your own python script code, adapt the names and add your app icon. 
 
