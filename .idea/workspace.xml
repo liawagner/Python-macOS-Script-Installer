@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9185a03b-3916-4ce6-b922-d7803fc19d42" name="Default Changelist" comment="" />
+    <list default="true" id="9185a03b-3916-4ce6-b922-d7803fc19d42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +134,28 @@
       <option name="project" value="LOCAL" />
       <updated>1594272493056</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated pyCharm to use pipenv properly">
+      <created>1594272904255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1594272904255</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated pyCharm to use pipenv properly">
+      <created>1594272909291</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1594272909291</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated release link to Downloader_Demo.dmg">
+      <created>1594273298783</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594273298783</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -154,7 +179,9 @@
     <MESSAGE value="build and dev environment" />
     <MESSAGE value="updated readme" />
     <MESSAGE value="updated pyCharm project settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated pyCharm project settings" />
+    <MESSAGE value="updated pyCharm to use pipenv properly" />
+    <MESSAGE value="updated release link to Downloader_Demo.dmg" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated release link to Downloader_Demo.dmg" />
   </component>
   <component name="WindowStateProjectService">
     <state x="622" y="238" key="#Inspections" timestamp="1594234608471">
@@ -199,10 +226,10 @@
     </state>
     <state x="2384" y="190" key="SettingsEditor/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594191056878" />
     <state x="489" y="190" key="SettingsEditor/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594272819544" />
-    <state x="588" y="293" key="Vcs.Push.Dialog.v2" timestamp="1594272505755">
+    <state x="588" y="293" key="Vcs.Push.Dialog.v2" timestamp="1594272915229">
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
-    <state x="588" y="293" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594272505755" />
+    <state x="588" y="293" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594272915229" />
     <state x="2506" y="85" width="1048" height="922" key="find.popup" timestamp="1594202874172">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>

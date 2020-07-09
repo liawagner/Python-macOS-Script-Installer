@@ -4,13 +4,14 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
+pyinstaller = "*"
+pylint = "*"
+j2cli = "*"
 
 [packages]
-pyinstaller = "*"
 tqdm = "*"
 requests = "*"
 validators = "*"
-j2cli = "*"
 appdirs = "*"
 
 [requires]
