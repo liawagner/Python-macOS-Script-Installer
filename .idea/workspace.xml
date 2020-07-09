@@ -20,25 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9185a03b-3916-4ce6-b922-d7803fc19d42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python-macOS-Script-Installer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CC-Offline-Package-Generator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app_bundle_config.platypus" beforeDir="false" afterPath="$PROJECT_DIR$/app/app_bundle_config.platypus" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/icon.icns" beforeDir="false" afterPath="$PROJECT_DIR$/app/icon.icns" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/launch_terminal.applescript" beforeDir="false" afterPath="$PROJECT_DIR$/app/launch_terminal.applescript" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build_app.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build_app.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build_prerequisites.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build_prereqs.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyinstall.spec" beforeDir="false" afterPath="$PROJECT_DIR$/pyinstall.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ccdl.command" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ccdl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/install.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +93,35 @@
       <option name="presentableId" value="Default" />
       <updated>1594189485953</updated>
     </task>
+    <task id="LOCAL-00001" summary="lots of renaming and cleanup">
+      <created>1594234418805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594234418805</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deleted">
+      <created>1594234438725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594234438725</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new demo script">
+      <created>1594234457223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594234457223</updated>
+    </task>
+    <task id="LOCAL-00004" summary="build and dev environment">
+      <created>1594234485737</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594234485737</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -124,7 +138,18 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lots of renaming and cleanup" />
+    <MESSAGE value="deleted" />
+    <MESSAGE value="new demo script" />
+    <MESSAGE value="build and dev environment" />
+    <option name="LAST_COMMIT_MESSAGE" value="build and dev environment" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="622" y="238" key="#Inspections" timestamp="1594234608471">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state x="622" y="238" key="#Inspections/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594234608471" />
     <state x="446" y="215" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594215815381">
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
@@ -134,30 +159,34 @@
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
     <state x="702" y="361" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594201226692" />
-    <state width="1077" height="352" key="GridCell.Tab.0.bottom" timestamp="1594231990498">
+    <state width="1077" height="352" key="GridCell.Tab.0.bottom" timestamp="1594237237197">
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
     <state width="932" height="352" key="GridCell.Tab.0.bottom/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341921" />
-    <state width="1077" height="352" key="GridCell.Tab.0.bottom/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231990498" />
-    <state width="1077" height="352" key="GridCell.Tab.0.center" timestamp="1594231990497">
+    <state width="1077" height="352" key="GridCell.Tab.0.bottom/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594237237197" />
+    <state width="1077" height="352" key="GridCell.Tab.0.center" timestamp="1594237237196">
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
     <state width="932" height="352" key="GridCell.Tab.0.center/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341919" />
-    <state width="1077" height="352" key="GridCell.Tab.0.center/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231990497" />
-    <state width="1077" height="352" key="GridCell.Tab.0.left" timestamp="1594231990496">
+    <state width="1077" height="352" key="GridCell.Tab.0.center/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594237237196" />
+    <state width="1077" height="352" key="GridCell.Tab.0.left" timestamp="1594237237196">
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
     <state width="932" height="352" key="GridCell.Tab.0.left/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341919" />
-    <state width="1077" height="352" key="GridCell.Tab.0.left/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231990496" />
-    <state width="1077" height="352" key="GridCell.Tab.0.right" timestamp="1594231990498">
+    <state width="1077" height="352" key="GridCell.Tab.0.left/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594237237196" />
+    <state width="1077" height="352" key="GridCell.Tab.0.right" timestamp="1594237237196">
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
     <state width="932" height="352" key="GridCell.Tab.0.right/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341920" />
-    <state width="1077" height="352" key="GridCell.Tab.0.right/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594231990498" />
+    <state width="1077" height="352" key="GridCell.Tab.0.right/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594237237196" />
     <state x="2384" y="190" key="SettingsEditor" timestamp="1594191056878">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
     <state x="2384" y="190" key="SettingsEditor/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594191056878" />
+    <state x="588" y="293" key="Vcs.Push.Dialog.v2" timestamp="1594234826638">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state x="588" y="293" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594234826638" />
     <state x="2506" y="85" width="1048" height="922" key="find.popup" timestamp="1594202874172">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
