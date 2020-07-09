@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9185a03b-3916-4ce6-b922-d7803fc19d42" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="9185a03b-3916-4ce6-b922-d7803fc19d42" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594234485737</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated readme">
+      <created>1594272434084</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594272434084</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated pyCharm project settings">
+      <created>1594272493056</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594272493056</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -143,7 +152,9 @@
     <MESSAGE value="deleted" />
     <MESSAGE value="new demo script" />
     <MESSAGE value="build and dev environment" />
-    <option name="LAST_COMMIT_MESSAGE" value="build and dev environment" />
+    <MESSAGE value="updated readme" />
+    <MESSAGE value="updated pyCharm project settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated pyCharm project settings" />
   </component>
   <component name="WindowStateProjectService">
     <state x="622" y="238" key="#Inspections" timestamp="1594234608471">
@@ -159,6 +170,10 @@
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
     <state x="702" y="361" key="#com.intellij.fileTypes.FileTypeChooser/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594201226692" />
+    <state x="767" y="314" key="FileChooserDialogImpl" timestamp="1594272729874">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state x="767" y="314" key="FileChooserDialogImpl/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594272729874" />
     <state width="1077" height="352" key="GridCell.Tab.0.bottom" timestamp="1594237237197">
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
@@ -179,14 +194,15 @@
     </state>
     <state width="932" height="352" key="GridCell.Tab.0.right/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594196341920" />
     <state width="1077" height="352" key="GridCell.Tab.0.right/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594237237196" />
-    <state x="2384" y="190" key="SettingsEditor" timestamp="1594191056878">
-      <screen x="1920" y="23" width="1920" height="1057" />
-    </state>
-    <state x="2384" y="190" key="SettingsEditor/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594191056878" />
-    <state x="588" y="293" key="Vcs.Push.Dialog.v2" timestamp="1594234826638">
+    <state x="489" y="190" key="SettingsEditor" timestamp="1594272819544">
       <screen x="33" y="23" width="1887" height="1057" />
     </state>
-    <state x="588" y="293" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594234826638" />
+    <state x="2384" y="190" key="SettingsEditor/1920.23.1920.1057/33.23.1887.1057@1920.23.1920.1057" timestamp="1594191056878" />
+    <state x="489" y="190" key="SettingsEditor/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594272819544" />
+    <state x="588" y="293" key="Vcs.Push.Dialog.v2" timestamp="1594272505755">
+      <screen x="33" y="23" width="1887" height="1057" />
+    </state>
+    <state x="588" y="293" key="Vcs.Push.Dialog.v2/1920.23.1920.1057/33.23.1887.1057@33.23.1887.1057" timestamp="1594272505755" />
     <state x="2506" y="85" width="1048" height="922" key="find.popup" timestamp="1594202874172">
       <screen x="1920" y="23" width="1920" height="1057" />
     </state>
